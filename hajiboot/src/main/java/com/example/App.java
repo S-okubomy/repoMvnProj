@@ -13,5 +13,6 @@ public class App
         System.out.println( "Spring Hello World!" );
         System.out.println( "Spring Hello World!2" );
         System.out.println( "Spring Hello World!123123" );
+        System.out.println( "Spring Hello World!3" );
     }
 }
